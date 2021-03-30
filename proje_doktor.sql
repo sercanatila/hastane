@@ -39,7 +39,7 @@ CREATE TABLE `doktor` (
 
 LOCK TABLES `doktor` WRITE;
 /*!40000 ALTER TABLE `doktor` DISABLE KEYS */;
-INSERT INTO `doktor` VALUES (1,'Ecem','Çiftçi',2,'10000000000','1'),(2,'Mahmut','Karayılan',1,'20000000000','2'),(3,'Yaprak','Çiçek',3,'30000000000','3'),(4,'Ali','Vefa',4,'40000000000','4'),(5,'Tarık','Akan',5,'50000000000','5'),(6,'Ömer Kadir','ERKEN',4,'60000000000','6'),(14,'Bünyamin','Yerleş',4,'55999444001','1234');
+INSERT INTO `doktor` VALUES (1,'Sercan','Atila',2,'10000000000','1'),(2,'Mahmut','Sarı',1,'20000000000','2'),(3,'Yaprak','Çiçek',3,'30000000000','3'),(4,'Ali','Vefa',4,'40000000000','4'),(5,'Tarık','Akan',5,'50000000000','5'),(6,'Ömer Kadir','ERKEN',4,'60000000000','6'),(14,'Bünyamin','Yerleş',4,'55999444001','1234');
 /*!40000 ALTER TABLE `doktor` ENABLE KEYS */;
 UNLOCK TABLES;
 /*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;
